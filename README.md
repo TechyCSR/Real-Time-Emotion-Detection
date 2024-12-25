@@ -33,8 +33,8 @@ Follow these steps to set up the project on your local machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/real-time-emotion-detection.git
-   cd real-time-emotion-detection
+   git clone https://github.com/TechyCSR/Real-Time-Emotion-Detection
+   cd Real-Time-Emotion-Detection
    ```
 
 2. **Create a virtual environment (optional):**
