@@ -14,7 +14,7 @@ This Real-Time Emotion Detection application leverages a deep learning model to 
 ## ⚙️ Project Requirements
 To run this project, ensure you have the following installed:
 
-- Python 3.7 or above
+- Python 3.9 or above
 - TensorFlow 2.x
 - OpenCV
 - Streamlit
@@ -77,6 +77,8 @@ Have questions or suggestions? Reach out to us:
 - **Web:** [TechyCSR Projects](https://projects.techycsr.me)
 - **Email:** [csr.info.in@gmail.com](mailto:csr.info.in@gmail.com)
 - **X (Twitter):** [@TechyCSR](https://twitter.com/TechyCSR)
+- **LinkedIn:** [@TechyCSR](https://www.linkedin.com/in/techycsr)
+
 
 ---
 
